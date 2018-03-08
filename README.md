@@ -1,6 +1,9 @@
 # NPREADME
 PluralSight iOS Tutorial Night Porter
 
+## Repo Description
+iOS app that displays a list of things that need to be done for a caretaker of a camping ground.
+
 ## UPDATE 3
 ![Update 3](Images/Update3.png)
 
