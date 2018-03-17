@@ -2,7 +2,7 @@
 PluralSight iOS Tutorial Night Porter
 
 ## Repo Description
-iOS app that displays a list of things that need to be done for a caretaker of a camping ground.
+Utilized Swift, Auto Constraint, UITableViewDelegate, UIActionController, UIAction, UIContextualAction and XCode to build an app for iOS devices that tracks tasks needed to be done in a camping ground.
 
 ## Completed
 ![Completed App](Images/NightPorterAppCompleted.png)
