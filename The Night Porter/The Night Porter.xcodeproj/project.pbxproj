@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C8803AF8205D7F1A0018DB13 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8803AF7205D7F1A0018DB13 /* Task.swift */; };
 		C886F0E320462244002CAD66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C886F0E220462244002CAD66 /* AppDelegate.swift */; };
 		C886F0E520462244002CAD66 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C886F0E420462244002CAD66 /* ViewController.swift */; };
 		C886F0E820462244002CAD66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C886F0E620462244002CAD66 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C8803AF7205D7F1A0018DB13 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		C886F0DF20462244002CAD66 /* The Night Porter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Night Porter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C886F0E220462244002CAD66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C886F0E420462244002CAD66 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				C886F0E220462244002CAD66 /* AppDelegate.swift */,
 				C886F0E420462244002CAD66 /* ViewController.swift */,
 				C886F0E620462244002CAD66 /* Main.storyboard */,
+				C8803AF7205D7F1A0018DB13 /* Task.swift */,
 				C886F0E920462244002CAD66 /* Assets.xcassets */,
 				C886F0EB20462244002CAD66 /* LaunchScreen.storyboard */,
 				C886F0EE20462244002CAD66 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C886F0E520462244002CAD66 /* ViewController.swift in Sources */,
+				C8803AF8205D7F1A0018DB13 /* Task.swift in Sources */,
 				C886F0E320462244002CAD66 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
