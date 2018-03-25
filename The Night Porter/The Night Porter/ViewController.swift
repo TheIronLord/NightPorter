@@ -111,7 +111,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         case 1:
             currentTask = weeklyTasks[indexPath.row]
         case 2:
-            currentTask = weeklyTasks[indexPath.row]
+            currentTask = monthlyTasks[indexPath.row]
         default:
             break
         }
